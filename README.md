@@ -1,2 +1,2 @@
 # gCNV
-Stepwise scripts for gCNV analysis
+Workflow and scripts for gCNV analysis
